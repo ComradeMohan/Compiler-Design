@@ -6,6 +6,6 @@
 
 
   <div style="max-width: 50px; margin-left: 100px;">
-  <H1> COPILER DESIGN </H1>
+  <H1> COMPILER DESIGN </H1>
     
   </div>
